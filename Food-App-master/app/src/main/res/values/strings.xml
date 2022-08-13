@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Pizza App</string>
+    <string name="pizza1">بيتزا ببروني</string>
+    <string name="pizza2">بيتزا مارجريتا</string>
+    <string name="pizza3">بيتزا لحم</string>
+    <string name="pizza4">بيتزا مكسيكي</string>
+    <string name="pizza5">بيتزا فاهيتا</string>
+    <string name="pizza6">بيتزا سوبريم</string>
+    <string name="pizza7">بيتزا خضار</string>
+    <string name="pizza8">بيتزا سلامي</string>
+    <string name="pizza9">بيتزا بالانشوجة</string>
+    <string name="pizza10">بيتزا مشكل جبن</string>
+    <string name="price1">20.00 ريال</string>
+    <string name="price2">22.00 ريال</string>
+    <string name="price3">26.00 ريال</string>
+    <string name="price4">30.00 ريال</string>
+    <string name="price5">33.00 ريال</string>
+    <string name="price6">32.00 ريال</string>
+    <string name="price7">25.00 ريال</string>
+    <string name="price8">30.00 ريال</string>
+    <string name="price9">40.00 ريال</string>
+    <string name="price10">44.00 ريال</string>
+
+</resources>
